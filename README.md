@@ -1,7 +1,10 @@
 <h2>Hello 👋, I'm Venkatesh Paithireddy</h2>
 <h6>Well interested in Native Android and good knowledge in React Native</h6>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rvenky125&count_private=true&theme=dark)
+<div>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=rvenky125&count_private=true&layout=compact&theme=dark"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hi-manshu&layout=compact&theme=dark" />
+  </div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rvenky125)
 
