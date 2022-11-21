@@ -3,7 +3,7 @@
 
 <div>
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=rvenky125&count_private=true&layout=compact&theme=dark"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvenky125&layout=compact&theme=dark" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvenky125&exclude_repo=FirstUnityGame&layout=compact&theme=dark&hide=C#" />
   </div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rvenky125)
