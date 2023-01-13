@@ -8,7 +8,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rvenky125)
 
-- Currently working at [VulcanTechs](https://www.vulcantechs.com/)
 - I made an android app named [AuUgPapers](https://play.google.com/store/apps/details?id=com.famas.auugpapers) which has 8K+ downloads on Playstore
 
 <h3 align="left">Connect with me:</h3>
