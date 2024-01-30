@@ -1,22 +1,45 @@
-<h2>Hello 👋, I'm Venkatesh Paithireddy</h2>
-<h6>Well interested in Native Android and good knowledge in React Native</h6>
+## Hey 👋, I'm Venkatesh Paithireddy!
+<a href='https://www.linkedin.com/in/venkatesh-paithireddy-861344197'><img alt="linkedin" src="https://github.com/rvenky125/rvenky125/assets/58197145/788eb599-0829-4060-a05f-80ff3f7b278c" height='18px'/></a>
+<a style="background-color: white;" href='https://x.com/r__venky'><img align='left' alt="twitter" src="https://github.com/rvenky125/rvenky125/assets/58197145/1d0c8731-7fe5-42fc-a8ff-3eac0868b7fd" height='18px'/></a>
 
-<div>
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=rvenky125&count_private=true&layout=compact&theme=default"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvenky125&exclude_repo=FirstUnityGame&layout=compact&theme=default&hide=C#" />
-  </div>
+I am a versatilist and easily adapt to different hats (Full Stack Mobile Developer 📱, beginner level Designer 🎨 (depending on what the project requires). I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+<br/>
+<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=rvenky125)
+<img align="right" alt="GIF" src="coder.gif" width="360px"/>
+  
+### 🧐 More About Me:
 
-- I made an android app named [AuUgPapers](https://play.google.com/store/apps/details?id=com.famas.auugpapers) which has 8K+ downloads on Playstore
+- 🔭 &nbsp; I’m currently working as **Mobile developer** at Vulcantechs.
+- 🤝 &nbsp; I’m looking for opportunities in Native Android.
+- 🌱 &nbsp; I’m currently learning Kotlin Multiplatform Mobile and building some apps; 
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rvenky125?tab=repositories)
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/venkatesh-paithireddy-861344197)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1RUXKR7QFCzzXxGGJKuHbNMQsfl3ACIED/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/r__venky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Venky" height="30" width="40" /></a>
-</p>
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React Native" width="40" height="40"/></a>
-<a href="https://www.javascript.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-64/javascript-2752148-2284965.png" alt="Java Script" width="40" height="40"/></a>
-</p>
+### 🔨 Languages and Tools:
+<a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
+<a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>
+<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
+<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
+<a href="https://developer.android.com/jetpack/compose" target="_blank"> <img src="https://github.com/rvenky125/rvenky125/assets/58197145/460813ed-7cc1-4b66-9c5b-ddea899a22f1" alt="compose" height="42px" /> </a>
+<br>
+<br>
+
+### Achievements
+
+- I made the below apps and published them to PlayStore.
+    - [AuUgPapers](https://play.google.com/store/apps/details?id=com.famas.auugpapers) which has 8K+ downloads on Playstore
+    - [Tonz](https://play.google.com/store/apps/details?id=com.famas.auugpapers) - High quality android application which handles audio and ringtone management.
+
+<br>
