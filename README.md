@@ -39,7 +39,13 @@ I am a versatilist and easily adapt to different hats (Full Stack Mobile Develop
 ### Achievements
 
 - I made the below apps and published them to PlayStore.
-    - [AuUgPapers](https://play.google.com/store/apps/details?id=com.famas.auugpapers) which has 8K+ downloads on Playstore
-    - [Tonz](https://play.google.com/store/apps/details?id=com.famas.auugpapers) - High quality android application which handles audio and ringtone management.
+  - [AuUgPapers](https://play.google.com/store/apps/details?id=com.famas.auugpapers) which has 8K+ downloads on Playstore
+  - [Tonz](https://play.google.com/store/apps/details?id=com.famas.auugpapers) - High quality android application which handles audio and ringtone management.
 
+- I wrote kotlin code to swap jetpack navigation to destination navigation in a multimodule Android Application which has been successfully merged to it. 
+[Swapped navigation to Jetpack Compose Destinations by rvenky125 · Pull Request #184 · kasem-sm/SlimeKT (github.com)](https://github.com/kasem-sm/SlimeKT/pull/184)
+
+- Canvas mathematics to create custom ui. 
+  - [rvenky125/RotaryDialAuth (github.com)](https://github.com/rvenky125/RotaryDialAuth)  
+  - [rvenky125/StackView (github.com)](https://github.com/rvenky125/StackView/tree/master)
 <br>
