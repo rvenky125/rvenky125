@@ -39,8 +39,12 @@ I am a versatilist and easily adapt to different hats (Full Stack Mobile Develop
 ### Achievements
 
 - I made the below apps and published them to PlayStore.
+  - [Tonz](https://play.google.com/store/apps/details?id=com.famas.tonz) - High quality android application which handles audio and ringtone management.
   - [AuUgPapers](https://play.google.com/store/apps/details?id=com.famas.auugpapers) which has 8K+ downloads on Playstore
-  - [Tonz](https://play.google.com/store/apps/details?id=com.famas.auugpapers) - High quality android application which handles audio and ringtone management.
+
+- My libraries:
+  - [kmp-device-info](https://github.com/rvenky125/kmp-device-info) - A library which gives you ability to get information of device.
+  - [react-native-async-alert](https://github.com/rvenky125/react-native-async-alert) - You can call the alert asynchronously and can wait for it's completion. 
 
 - I wrote kotlin code to swap jetpack navigation to destination navigation in a multimodule Android Application which has been successfully merged to it. 
 [Swapped navigation to Jetpack Compose Destinations by rvenky125 · Pull Request #184 · kasem-sm/SlimeKT (github.com)](https://github.com/kasem-sm/SlimeKT/pull/184)
