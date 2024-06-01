@@ -11,10 +11,9 @@ I am a versatilist and easily adapt to different hats (Full Stack Mobile Develop
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working as **Mobile developer** at Vulcantechs.
-- 🤝 &nbsp; I’m looking for opportunities in Native Android.
 - 🌱 &nbsp; I’m currently learning Kotlin Multiplatform Mobile and building some apps; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rvenky125?tab=repositories)
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 📚 &nbsp; Check out my articles at [Medium](https://medium.com/@venkypaithireddy)
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/venkatesh-paithireddy-861344197)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1RUXKR7QFCzzXxGGJKuHbNMQsfl3ACIED/view?usp=sharing)
 
