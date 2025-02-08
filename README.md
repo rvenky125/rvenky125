@@ -10,7 +10,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Mobile Develop
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working as **Mobile developer** at Vulcantechs.
+- 🔭 &nbsp; I’m currently working as **Mobile developer** at GroundTruth.
 - 🌱 &nbsp; I’m currently learning Kotlin Multiplatform Mobile and building some apps; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rvenky125?tab=repositories)
 - 📚 &nbsp; Check out my articles at [Medium](https://medium.com/@venkypaithireddy)
